@@ -2,7 +2,8 @@
 - 👀 estou interesado em apronfudar mais sobre a area de TI
 - 🌱 atualmente estou fazendo graduação em ADS
 - 💞️ procuro colaborar com o que poder em meu escopo.
-- 📫 como entrar em contato ig @jhota_94
+- 📫 como entrar em contato
+- ig @jhota_94
 - https://www.linkedin.com/in/wellington-j-oliveira-b431b6b1/
 - 😄 JHOTA
 - ⚡ Rock and roll

@@ -1,4 +1,4 @@
-- 👋 ola, eu @wellingtmax
+- 👋 ola, eu sou @wellingtmax
 - 👀 estou interesado em apronfudar mais sobre a area de TI
 - 🌱 atualmente estou fazendo graduação em ADS
 - 💞️ procuro colaborar com o que poder em meu escopo.

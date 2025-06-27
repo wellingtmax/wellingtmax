@@ -1,7 +1,6 @@
-- 👋 ola, eu sou @wellingtmax
-- 👀 estou interesado em apronfudar mais sobre a area de TI
+- 👋 ola, eu sou JHOTA
+- 👀 estou interesado em me apronfudar mais sobre a area de DEV
 - 🌱 atualmente estou fazendo graduação em ADS
-- 💞️ procuro colaborar com o que poder em meu escopo.
 - 📫 contato
 - ig @jhota_94
 - https://www.linkedin.com/in/wellington-j-oliveira-b431b6b1/

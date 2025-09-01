@@ -1,5 +1,5 @@
 - 👋 ola, eu sou JHOTA
-- 👀 estou interesado em me apronfudar mais sobre a area de DEV
+- 👀 estou interessado em apronfudar mais sobre a area de DEV
 - 🌱 atualmente estou fazendo graduação em ADS
 - 📫 contato
 - ig @jhota_94

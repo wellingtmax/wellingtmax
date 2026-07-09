@@ -92,23 +92,18 @@ Criação de jogos, automações e ferramentas desktop, explorando lógica, inte
 
 ---
 
-## 📊 Estatísticas
+## 📈 Atividade
 
 <div align="center">
 
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=wellingtmax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&cache_seconds=86400"
-    alt="Estatísticas do GitHub de Wellington"
-  />
-
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtmax&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&cache_seconds=86400"
-    alt="Linguagens mais usadas por Wellington"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=wellingtmax&theme=tokyo-night&hide_border=true"
+    alt="Gráfico de atividades no GitHub"
   />
 
 </div>
+
+---
 
 ## 📫 Contato
 

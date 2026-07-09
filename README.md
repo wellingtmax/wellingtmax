@@ -1,38 +1,94 @@
-# Olá, eu sou o Wellington (Jhota) 👋 🤘
+# Olá, eu sou o Wellington Jorge Oliveira 👋
 
-### ⚡ "It's a long way to the top (if you wanna rock 'n' roll)"
+### Desenvolvedor Web | Angular | Node.js | Python | Sistemas para negócios
 
-Analista e Desenvolvedor de Sistemas em formação, apaixonado por transformar lógica complexa em interfaces modernas e funcionais. Atualmente focado no ecossistema **Angular** e explorando as profundezas do **Python** para desenvolvimento de games e automação.
+Sou Analista e Desenvolvedor de Sistemas em formação, com foco em criação de **sites, sistemas web, automações e soluções digitais para pequenas empresas**.
+
+Atualmente desenvolvo projetos próprios como o **Cola&Troca**, uma plataforma digital voltada para álbuns, figurinhas, coleções e experiências interativas. Também trabalho na criação de sites institucionais, sistemas personalizados e ferramentas que ajudam pequenos negócios a organizar processos, melhorar sua presença online e atender melhor seus clientes.
+
+Gosto de transformar ideias em produtos funcionais, com interface moderna, boa usabilidade e estrutura preparada para crescer.
+
+---
+
+## 🚀 O que eu desenvolvo
+
+- 🌐 Sites profissionais para pequenas empresas
+- 🛒 Sistemas web personalizados
+- 📱 Interfaces modernas e responsivas
+- ⚙️ Automações com Python
+- 🎮 Projetos interativos e experiências digitais
+- 🧩 Plataformas com Angular, Node.js e banco de dados
+- 🖼️ Ferramentas para produção de imagens, figurinhas e álbuns digitais
+
+---
+
+## 💼 Projeto principal
+
+### 🧃 Cola&Troca
+
+O **Cola&Troca** é uma plataforma digital em desenvolvimento para criação, compra, abertura e coleção de álbuns de figurinhas digitais.
+
+O projeto envolve:
+
+- Álbuns digitais personalizados
+- Sistema de figurinhas e packs
+- Loja com moedas virtuais
+- Área administrativa
+- Upload e organização de imagens
+- Sistema de raridades
+- Experiência visual interativa
+- Integração com serviços de pagamento e e-mail
+- Arquitetura preparada para expansão
+
+Esse projeto representa minha evolução como desenvolvedor full-stack, unindo front-end, back-end, banco de dados, deploy, segurança e experiência do usuário.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### **Front-end**
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### Front-end
 
-### **Back-end**
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Banco de Dados & DevOps**
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Banco de Dados, DevOps e Ferramentas
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🕹️ Projetos em Destaque
+## 🧩 Projetos em destaque
 
-* **🐍 Tetris Python Game:** Recriação do clássico Tetris usando **Pygame**, com foco em matrizes e colisão.
-* **💻 Portfólio Angular Matrix:** Site com efeitos de animação Matrix e cards dinâmicos utilizando **Angular Material**.
+### 🧃 Cola&Troca
+
+Plataforma de álbuns digitais, figurinhas, packs, loja, sistema administrativo e experiências colecionáveis.
+
+### 🖼️ Conversor de Figurinhas
+
+Ferramenta desktop em Python para converter imagens em lote para WEBP, redimensionar figurinhas e preparar arquivos para uso em álbuns digitais.
+
+### 🌐 Sites para pequenas empresas
+
+Desenvolvimento de sites modernos, responsivos e objetivos para negócios locais que precisam de presença profissional na internet.
+
+### 🎮 Projetos com Python
+
+Criação de jogos, automações e ferramentas desktop, explorando lógica, interfaces e produtividade.
 
 ---
 
@@ -40,16 +96,33 @@ Analista e Desenvolvedor de Sistemas em formação, apaixonado por transformar l
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wellingtmax&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtmax&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-## 📫 Vamos trocar uma ideia?
+## 📫 Contato
 
-* **LinkedIn:** [Wellington J. Oliveira](https://www.linkedin.com/in/wellington-j-oliveira-b431b6b1/)
-* **Instagram:** [@jhota_94](https://instagram.com/jhota_94)
-* **Status:** 🟢 Aberto a colaborações e novos desafios.
+- **LinkedIn:** [Wellington J. Oliveira](https://www.linkedin.com/in/wellington-j-oliveira-b431b6b1/)
+- **Instagram:** [@jhota_94](https://instagram.com/jhota_94)
+- **GitHub:** [@wellingtmax](https://github.com/wellingtmax)
 
 ---
-*“Codando com café no sistema e Rock nos fones.”* 🎸
+
+## 🤝 Aberto a projetos e colaborações
+
+Tenho interesse em projetos relacionados a:
+
+- Sites para pequenos negócios
+- Sistemas web personalizados
+- Plataformas digitais
+- Automações
+- Ferramentas internas para empresas
+- Experiências digitais interativas
+
+---
+
+> “Transformando ideias em sistemas reais, funcionais e prontos para crescer.” 🚀

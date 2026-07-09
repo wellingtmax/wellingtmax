@@ -92,16 +92,20 @@ Criação de jogos, automações e ferramentas desktop, explorando lógica, inte
 
 ---
 
-## 📈 Atividade
+## 📈 Atividade no GitHub
 
 <div align="center">
 
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=wellingtmax&theme=tokyo-night&hide_border=true"
-    alt="Gráfico de atividades no GitHub"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=wellingtmax&theme=tokyo-night&hide_border=true&area=true"
+    alt="Gráfico de atividades no GitHub de Wellington"
   />
 
 </div>
+
+<p align="center">
+  Evoluindo constantemente em projetos próprios, sistemas web, automações e soluções digitais.
+</p>
 
 ---
 

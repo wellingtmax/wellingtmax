@@ -4,7 +4,7 @@
 
 Sou Analista e Desenvolvedor de Sistemas em formação, com foco em criação de **sites, sistemas web, automações e soluções digitais para pequenas empresas**.
 
-Atualmente desenvolvo projetos próprios como o **Cola&Troca**, uma plataforma digital voltada para álbuns, figurinhas, coleções e experiências interativas. Também trabalho na criação de sites institucionais, sistemas personalizados e ferramentas que ajudam pequenos negócios a organizar processos, melhorar sua presença online e atender melhor seus clientes.
+Atualmente desenvolvo projetos próprios como o **Cola&Troca** e **BoraMenu**, uma plataforma digital voltada para álbuns, figurinhas, coleções e experiências interativas. Também trabalho na criação de sites institucionais, sistemas personalizados e ferramentas que ajudam pequenos negócios a organizar processos, melhorar sua presença online e atender melhor seus clientes.
 
 Gosto de transformar ideias em produtos funcionais, com interface moderna, boa usabilidade e estrutura preparada para crescer.
 
